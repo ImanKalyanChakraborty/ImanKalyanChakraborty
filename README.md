@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iman Kalyan Chakraborty</h1>
-<h3 align="center">A passionate ML enthusiast from India</h3>
 
 - 🌱 I’m currently learning
-  * Machine Learning and Deep Learning
-  * C++
-  * OCaml
+  * Ethereum
+  * Machine Learning
+  * Cryptography
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
