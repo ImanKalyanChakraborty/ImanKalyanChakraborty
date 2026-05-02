@@ -11,9 +11,10 @@
 <a href="https://linkedin.com/in/imankalyanchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imankalyanchakraborty" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imankalyanchakraborty&show_icons=true&theme=dark&title_color=90f1fd&text_color=ffffff&hide_border=true&locale=en&layout=compact&bg_color=000000" alt="imankalyanchakraborty" /></p>
+<h3 align="left">Open Source Contributions:</h3>
+<a href="https://github.com/ethereum/execution-specs/issues?q=is%3Apr%20author%3AImanKalyanChakraborty" target="blank">Ethereum Exection Specs</a>
+<a href="https://github.com/leanEthereum/leanMultisig/issues?q=is%3Apr%20author%3AImanKalyanChakraborty" target="blank">Lean Multisig for Lean Ethereum
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imankalyanchakraborty&show_icons=true&theme=dark&title_color=69f4ff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="imankalyanchakraborty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imankalyanchakraborty&theme=darcula&hide_border=true&background=000000" alt="imankalyanchakraborty" /></p>
+<h3 align="left">Streak:</h3>
+<p><img align="center" src="https://streak-stats.demolab.com?user=ImanKalyanChakraborty&theme=dark" alt="imankalyanchakraborty" /></p>
 
