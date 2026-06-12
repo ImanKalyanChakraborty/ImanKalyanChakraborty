@@ -12,9 +12,9 @@
 </p> -->
 
 <h3 align="left">Open Source Contributions:</h3>
-<a href="https://github.com/ethereum/execution-specs/issues?q=is%3Apr%20author%3AImanKalyanChakraborty" target="blank">Ethereum Exection Specs</a>
+<a href="https://github.com/ethereum/execution-specs/issues?q=is%3Apr%20author%3Aastrion-coder" target="blank">Ethereum Exection Specs</a>
 
-<a href="https://github.com/leanEthereum/leanMultisig/issues?q=is%3Apr%20author%3AImanKalyanChakraborty" target="blank">Lean Multisig for Lean Ethereum</a>
+<a href="https://github.com/leanEthereum/leanMultisig/issues?q=is%3Apr%20author%3Aastrion-coder" target="blank">Lean Multisig for Lean Ethereum</a>
 
 <!-- <h3 align="left">Streak:</h3>
 <p><img align="center" src="https://streak-stats.demolab.com?user=ImanKalyanChakraborty&theme=dark" alt="imankalyanchakraborty" /></p> -->
